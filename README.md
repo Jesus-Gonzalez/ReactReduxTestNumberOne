@@ -18,7 +18,7 @@ A book list is shown: as soon as you click a book, it will display the details a
 `npm start`
 
 4. Browse the project.  
-In your web browser navigate to: `http://localhost:8080/webpack-dev-server/
+In your web browser navigate to: `http://localhost:8080/webpack-dev-server/`
 
 ## Something else?
 
