@@ -24,8 +24,9 @@ In your web browser navigate to: `http://localhost:8080/webpack-dev-server/`
 
 Of course. I'll link you to another example. This time, you will be able to choose a book category,
 the app will make an AJAX request to a *.json file, simulating an async request to an API or to database,
-in order to get the book list for a specific category.
+in order to get the book list for a specific category.  
+https://github.com/Jesus-Gonzalez/ReactReduxTestNumberTwo
 
 More examples to come, using React Router and implementing testing with mocha, chai and enzyme libraries.
 
-Stay tuned! :)
+Stay tuned! :memo:
